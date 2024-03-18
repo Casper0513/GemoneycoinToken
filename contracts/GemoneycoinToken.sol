@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 contract GemoneycoinToken {
-    string public name = "Gemoneycoin Token";
+    string public name = "GemoneycoinToken";
     string public symbol = "GCT";
     string public standard = "@gemoneycoin v.0.1";
     uint256 public totalSupply;
