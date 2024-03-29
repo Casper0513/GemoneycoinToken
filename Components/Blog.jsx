@@ -84,7 +84,7 @@ const Blog = () => {
                       <h6 class="blog_title">
                         <a href="#">
                           The Year Cryptocurrencies Seized the Mainstream
-                          Spotlightp
+                          Spotlight
                         </a>
                       </h6>
                       <p>
@@ -99,7 +99,7 @@ const Blog = () => {
                     <ul class="list_none blog_meta">
                       <li>
                         <a href="#">
-                          <i class="ion-android-time"></i> April 14, 2018
+                          <i class="ion-android-time"></i> March 28, 2024
                         </a>
                       </li>
                       <li>
