@@ -49,7 +49,7 @@ const Faq = () => {
                   data-animation-delay="0.6s"
                 >
                   <a data-toggle="tab" href="#tab2">
-                    Pre-ICO & ICC{" "}
+                    Pre-ICO{" "}
                   </a>
                 </li>
                 <li
@@ -243,7 +243,7 @@ const Faq = () => {
                                 aria-expanded="true"
                                 aria-controls="collapseFive"
                               >
-                                How does one acquire bitcoins?
+                                How does one acquire Gemoneycoin?
                               </a>
                             </h6>
                           </div>
@@ -277,7 +277,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapseSix"
                               >
-                                Can I make money with Bitcoin?
+                                Can I make money with Gemoneycoin?
                               </a>
                             </h6>
                           </div>
@@ -288,10 +288,8 @@ const Faq = () => {
                             data-parent="#accordion2"
                           >
                             <div class="card-body">
-                              You should never expect to get rich with Bitcoin
-                              or any emerging technology. It is always important
-                              to be wary of any thing that sounds too good to be
-                              true or disobeys basic
+                              You should never expect to get rich with Gemoneycoin
+                              or any emerging technology.
                             </div>
                           </div>
                         </div>
@@ -309,7 +307,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapseSeven"
                               >
-                                What happens when bitcoins are lost?
+                                What happens when Gemoneycoin are lost?
                               </a>
                             </h6>
                           </div>
@@ -349,7 +347,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapseEight"
                               >
-                                Where is the invest my bitcoin?
+                                Where is the invest my Gemoneycoin?
                               </a>
                             </h6>
                           </div>
@@ -395,7 +393,7 @@ const Faq = () => {
                                 aria-expanded="true"
                                 aria-controls="collapseNine"
                               >
-                                How does one acquire bitcoins?
+                                How does one acquire Gemoneycoin?
                               </a>
                             </h6>
                           </div>
@@ -406,14 +404,8 @@ const Faq = () => {
                             data-parent="#accordion3"
                           >
                             <div class="card-body">
-                              While it may be possible to find individuals who
-                              wish to sell bitcoins in exchange for a credit
-                              card or PayPal payment, most exchanges do not
-                              allow funding via these payment methods. This is
-                              due to cases where someone buys bitcoins with
-                              PayPal, and then reverses their half of the
-                              transaction. This is commonly referred to as a
-                              chargeback.
+                              Follow the Airdrops, Also can purchase the Token from
+                              an exchange.
                             </div>
                           </div>
                         </div>
@@ -431,7 +423,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapseTen"
                               >
-                                Can I make money with Bitcoin?
+                                Can I make money with Gemoneycoin?
                               </a>
                             </h6>
                           </div>
@@ -442,7 +434,7 @@ const Faq = () => {
                             data-parent="#accordion3"
                           >
                             <div class="card-body">
-                              You should never expect to get rich with Bitcoin
+                              You should never expect to get rich with Gemoneycoin
                               or any emerging technology. It is always important
                               to be wary of anything that sounds too good to be
                               true or disobeys basic economic rules.
@@ -463,7 +455,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapseEleven"
                               >
-                                What happens when bitcoins are lost?
+                                What happens when Gemoneycoin are lost?
                               </a>
                             </h6>
                           </div>
@@ -475,13 +467,13 @@ const Faq = () => {
                           >
                             <div class="card-body">
                               When a user loses his wallet, it has the effect of
-                              removing money out of circulation. Lost bitcoins
+                              removing money out of circulation. Lost Gemoneycoin
                               still remain in the block chain just like any
-                              other bitcoins. However, lost bitcoins remain
+                              other Gemoneycoin. However, lost Gemoneycoin remain
                               dormant forever because there is no way for
                               anybody to find the private key(s) that would
                               allow them to be spent again. Because of the law
-                              of supply and demand, when fewer bitcoins are
+                              of supply and demand, when fewer Gemoneycoin are
                               available, the ones that are left will be in
                               higher demand and increase in value to compensate.
                             </div>
@@ -501,7 +493,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapseTwelve"
                               >
-                                Who controls the Bitcoin network?
+                                Who controls the Gemoneycoin network?
                               </a>
                             </h6>
                           </div>
@@ -512,11 +504,11 @@ const Faq = () => {
                             data-parent="#accordion3"
                           >
                             <div class="card-body">
-                              Nobody owns the Bitcoin network much like no one
-                              owns the technology behind email. Bitcoin is
-                              controlled by all Bitcoin users around the world.
+                              Nobody owns the Gemoneycoin network much like no one
+                              owns the technology behind email. Gemoneycoin Token is
+                              controlled by all Gemoneycoin users around the world.
                               While developers are improving the software, they
-                              can't force a change in the Bitcoin protocol
+                              can't force a change in the Gemoneycoin protocol
                               because all users are free to choose what software
                               and version they use.
                             </div>
@@ -539,7 +531,7 @@ const Faq = () => {
                                 aria-expanded="true"
                                 aria-controls="collapseThirteen"
                               >
-                                How does one acquire bitcoins?
+                                How does one acquire Gemoneycoin?
                               </a>
                             </h6>
                           </div>
@@ -551,10 +543,10 @@ const Faq = () => {
                           >
                             <div class="card-body">
                               While it may be possible to find individuals who
-                              wish to sell bitcoins in exchange for a credit
+                              wish to sell Gemoneycoin in exchange for a credit
                               card or PayPal payment, most exchanges do not
                               allow funding via these payment methods. This is
-                              due to cases where someone buys bitcoins with
+                              due to cases where someone buys Gemoneycoin with
                               PayPal, and then reverses their half of the
                               transaction. This is commonly referred to as a
                               chargeback.
@@ -575,7 +567,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapseFourteen"
                               >
-                                Can I make money with Bitcoin?
+                                Can I make money with Gemoneycoin?
                               </a>
                             </h6>
                           </div>
@@ -586,7 +578,7 @@ const Faq = () => {
                             data-parent="#accordion4"
                           >
                             <div class="card-body">
-                              You should never expect to get rich with Bitcoin
+                              You should never expect to get rich with Gemoneycoin
                               or any emerging technology. It is always important
                               to be wary of anything that sounds too good to be
                               true or disobeys basic economic rules.
@@ -607,7 +599,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapseFifteen"
                               >
-                                What happens when bitcoins are lost?
+                                What happens when Gemoneycoin are lost?
                               </a>
                             </h6>
                           </div>
@@ -619,13 +611,13 @@ const Faq = () => {
                           >
                             <div class="card-body">
                               When a user loses his wallet, it has the effect of
-                              removing money out of circulation. Lost bitcoins
+                              removing money out of circulation. Lost Gemoneycoin
                               still remain in the block chain just like any
-                              other bitcoins. However, lost bitcoins remain
+                              other Gemoneycoin. However, lost Gemoneycoin remain
                               dormant forever because there is no way for
                               anybody to find the private key(s) that would
                               allow them to be spent again. Because of the law
-                              of supply and demand, when fewer bitcoins are
+                              of supply and demand, when fewer Gemoneycoin are
                               available, the ones that are left will be in
                               higher demand and increase in value to compensate.
                             </div>
@@ -645,7 +637,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapseSixteen"
                               >
-                                Who controls the Bitcoin network?
+                                Who controls the Gemoneycoin network?
                               </a>
                             </h6>
                           </div>
@@ -656,11 +648,11 @@ const Faq = () => {
                             data-parent="#accordion4"
                           >
                             <div class="card-body">
-                              Nobody owns the Bitcoin network much like no one
+                              Nobody owns the Gemoneycoin network much like no one
                               owns the technology behind email. Bitcoin is
-                              controlled by all Bitcoin users around the world.
+                              controlled by all Gemoneycoin users around the world.
                               While developers are improving the software, they
-                              can't force a change in the Bitcoin protocol
+                              can't force a change in the Gemoneycoin protocol
                               because all users are free to choose what software
                               and version they use.
                             </div>
@@ -687,7 +679,7 @@ const Faq = () => {
                                 aria-expanded="true"
                                 aria-controls="collapseSeventeen"
                               >
-                                How are bitcoins created?
+                                How are Gemoneycoin created?
                               </a>
                             </h6>
                           </div>
@@ -698,10 +690,10 @@ const Faq = () => {
                             data-parent="#accordion5"
                           >
                             <div class="card-body">
-                              New bitcoins are generated by a competitive and
+                              New Gemoneycoin are generated by a competitive and
                               decentralized process called "mining". This
                               process involves that individuals are rewarded by
-                              the network for their services. Bitcoin miners are
+                              the network for their services. Gemoneycoin miners are
                               processing transactions and securing the network
                               using specialized hardware and are collecting new
                               bitcoins in exchange.
@@ -722,7 +714,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapseEighteen"
                               >
-                                Why do bitcoins have value?
+                                Why do Gemoneycoin have value?
                               </a>
                             </h6>
                           </div>
@@ -733,14 +725,14 @@ const Faq = () => {
                             data-parent="#accordion5"
                           >
                             <div class="card-body">
-                              Bitcoins have value because they are useful as a
-                              form of money. Bitcoin has the characteristics of
+                              Gemoneycoin have value because they are useful as a
+                              form of money. Gemoneycoin has the characteristics of
                               money (durability, portability, fungibility,
                               scarcity, divisibility, and recognizability) based
                               on the properties of mathematics rather than
                               relying on physical properties (like gold and
                               silver) or trust in central authorities (like fiat
-                              currencies). In short, Bitcoin is backed by
+                              currencies). In short, Gemoneycoin is backed by
                               mathematics.
                             </div>
                           </div>
@@ -759,7 +751,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapseNineteen"
                               >
-                                What determines bitcoin's price?
+                                What determines Gemoneycoin's price?
                               </a>
                             </h6>
                           </div>
@@ -770,11 +762,11 @@ const Faq = () => {
                             data-parent="#accordion5"
                           >
                             <div class="card-body">
-                              The price of a bitcoin is determined by supply and
-                              demand. When demand for bitcoins increases, the
+                              The price of a Gemoneycoin is determined by supply and
+                              demand. When demand for Gemoneycoin increases, the
                               price increases, and when demand falls, the price
-                              falls. There is only a limited number of bitcoins
-                              in circulation and new bitcoins are created at a
+                              falls. There is only a limited number of Gemoneycoin
+                              in circulation and new Gemoneycoin are created at a
                               predictable and decreasing rate
                             </div>
                           </div>
@@ -793,7 +785,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapseTwenty"
                               >
-                                Can bitcoins become worthless?
+                                Can Gemoneycoin become worthless?
                               </a>
                             </h6>
                           </div>
@@ -828,7 +820,7 @@ const Faq = () => {
                                 aria-expanded="true"
                                 aria-controls="collapse21"
                               >
-                                How are bitcoins created?
+                                How are Gemoneycoin created?
                               </a>
                             </h6>
                           </div>
@@ -839,13 +831,13 @@ const Faq = () => {
                             data-parent="#accordion6"
                           >
                             <div class="card-body">
-                              New bitcoins are generated by a competitive and
+                              New Gemoneycoin are generated by a competitive and
                               decentralized process called "mining". This
                               process involves that individuals are rewarded by
-                              the network for their services. Bitcoin miners are
+                              the network for their services. Gemoneycoin miners are
                               processing transactions and securing the network
                               using specialized hardware and are collecting new
-                              bitcoins in exchange.
+                              Gemoneycoin in exchange.
                             </div>
                           </div>
                         </div>
@@ -863,7 +855,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapse22"
                               >
-                                Why do bitcoins have value?
+                                Why do Gemoneycoin have value?
                               </a>
                             </h6>
                           </div>
@@ -874,14 +866,14 @@ const Faq = () => {
                             data-parent="#accordion6"
                           >
                             <div class="card-body">
-                              Bitcoins have value because they are useful as a
-                              form of money. Bitcoin has the characteristics of
+                              Gemoneycoin have value because they are useful as a
+                              form of money. Gemoneycoin has the characteristics of
                               money (durability, portability, fungibility,
                               scarcity, divisibility, and recognizability) based
                               on the properties of mathematics rather than
                               relying on physical properties (like gold and
                               silver) or trust in central authorities (like fiat
-                              currencies). In short, Bitcoin is backed by
+                              currencies). In short, Gemoneycoin is backed by
                               mathematics.
                             </div>
                           </div>
@@ -900,7 +892,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapse23"
                               >
-                                What determines bitcoin's price?
+                                What determines Gemoneycoin's price?
                               </a>
                             </h6>
                           </div>
@@ -911,11 +903,11 @@ const Faq = () => {
                             data-parent="#accordion6"
                           >
                             <div class="card-body">
-                              The price of a bitcoin is determined by supply and
-                              demand. When demand for bitcoins increases, the
+                              The price of a Gemoneycoin is determined by supply and
+                              demand. When demand for Gemoneycoin increases, the
                               price increases, and when demand falls, the price
-                              falls. There is only a limited number of bitcoins
-                              in circulation and new bitcoins are created at a
+                              falls. There is only a limited number of Gemoneycoin
+                              in circulation and new Gemoneycoin are created at a
                               predictable and decreasing rate
                             </div>
                           </div>
@@ -934,7 +926,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapse24"
                               >
-                                Can bitcoins become worthless?
+                                Can Gemoneycoin become worthless?
                               </a>
                             </h6>
                           </div>
@@ -973,7 +965,7 @@ const Faq = () => {
                                 aria-expanded="true"
                                 aria-controls="collapse25"
                               >
-                                Is Bitcoin legal?
+                                Is Gemoneycoin legal?
                               </a>
                             </h6>
                           </div>
@@ -984,13 +976,13 @@ const Faq = () => {
                             data-parent="#accordion7"
                           >
                             <div class="card-body">
-                              To the best of our knowledge, Bitcoin has not been
+                              To the best of our knowledge, Gemoneycoin has not been
                               made illegal by legislation in most jurisdictions.
                               However, some jurisdictions (such as Argentina and
                               Russia) severely restrict or ban foreign
                               currencies. Other jurisdictions (such as Thailand)
                               may limit the licensing of certain entities such
-                              as Bitcoin exchanges.
+                              as Gemoneycoin exchanges.
                             </div>
                           </div>
                         </div>
@@ -1008,7 +1000,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapse26"
                               >
-                                Is Bitcoin useful for illegal activities?
+                                Is Gemoneycoin useful for illegal activities?
                               </a>
                             </h6>
                           </div>
@@ -1019,11 +1011,11 @@ const Faq = () => {
                             data-parent="#accordion7"
                           >
                             <div class="card-body">
-                              Bitcoin is money, and money has always been used
+                              Gemoneycoin is money, and money has always been used
                               both for legal and illegal purposes. Cash, credit
                               cards and current banking systems widely surpass
-                              Bitcoin in terms of their use to finance crime.
-                              Bitcoin can bring significant innovation in
+                              Gemoneycoin in terms of their use to finance crime.
+                              Gemoneycoin can bring significant innovation in
                               payment systems and the benefits of such
                               innovation are often considered to be far beyond
                               their potential drawbacks.
@@ -1044,7 +1036,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapse27"
                               >
-                                Can Bitcoin be regulated?
+                                Can Gemoneycoin be regulated?
                               </a>
                             </h6>
                           </div>
@@ -1055,11 +1047,11 @@ const Faq = () => {
                             data-parent="#accordion7"
                           >
                             <div class="card-body">
-                              The Bitcoin protocol itself cannot be modified
+                              The Gemoneycoin protocol itself cannot be modified
                               without the cooperation of nearly all its users,
                               who choose what software they use. Attempting to
                               assign special rights to a local authority in the
-                              rules of the global Bitcoin network is not a
+                              rules of the global Gemoneycoin network is not a
                               practical possibility.
                             </div>
                           </div>
@@ -1078,7 +1070,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapse28"
                               >
-                                What about Bitcoin and taxes?
+                                What about Gemoneycoin and taxes?
                               </a>
                             </h6>
                           </div>
@@ -1089,7 +1081,7 @@ const Faq = () => {
                             data-parent="#accordion7"
                           >
                             <div class="card-body">
-                              Bitcoin is not a fiat currency with legal tender
+                              Gemoneycoin is not a fiat currency with legal tender
                               status in any jurisdiction, but often tax
                               liability accrues regardless of the medium used.
                               There is a wide variety of legislation in many
@@ -1116,7 +1108,7 @@ const Faq = () => {
                                 aria-expanded="true"
                                 aria-controls="collapse29"
                               >
-                                Is Bitcoin legal?
+                                Is Gemoneycoin legal?
                               </a>
                             </h6>
                           </div>
@@ -1127,13 +1119,13 @@ const Faq = () => {
                             data-parent="#accordion8"
                           >
                             <div class="card-body">
-                              To the best of our knowledge, Bitcoin has not been
+                              To the best of our knowledge, Gemoneycoin has not been
                               made illegal by legislation in most jurisdictions.
                               However, some jurisdictions (such as Argentina and
                               Russia) severely restrict or ban foreign
                               currencies. Other jurisdictions (such as Thailand)
                               may limit the licensing of certain entities such
-                              as Bitcoin exchanges.
+                              as Gemoneycoin exchanges.
                             </div>
                           </div>
                         </div>
@@ -1151,7 +1143,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapse30"
                               >
-                                Is Bitcoin useful for illegal activities?
+                                Is Gemoneycoin useful for illegal activities?
                               </a>
                             </h6>
                           </div>
@@ -1162,11 +1154,11 @@ const Faq = () => {
                             data-parent="#accordion8"
                           >
                             <div class="card-body">
-                              Bitcoin is money, and money has always been used
+                              Gemoneycoin is money, and money has always been used
                               both for legal and illegal purposes. Cash, credit
                               cards and current banking systems widely surpass
-                              Bitcoin in terms of their use to finance crime.
-                              Bitcoin can bring significant innovation in
+                              Gemoneycoin in terms of their use to finance crime.
+                              Gemoneycoin can bring significant innovation in
                               payment systems and the benefits of such
                               innovation are often considered to be far beyond
                               their potential drawbacks.
@@ -1187,7 +1179,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapse31"
                               >
-                                Can Bitcoin be regulated?
+                                Can Gemoneycoin be regulated?
                               </a>
                             </h6>
                           </div>
@@ -1198,11 +1190,11 @@ const Faq = () => {
                             data-parent="#accordion8"
                           >
                             <div class="card-body">
-                              The Bitcoin protocol itself cannot be modified
+                              The Gemoneycoin protocol itself cannot be modified
                               without the cooperation of nearly all its users,
                               who choose what software they use. Attempting to
                               assign special rights to a local authority in the
-                              rules of the global Bitcoin network is not a
+                              rules of the global Gemoneycoin network is not a
                               practical possibility.
                             </div>
                           </div>
@@ -1221,7 +1213,7 @@ const Faq = () => {
                                 aria-expanded="false"
                                 aria-controls="collapse32"
                               >
-                                What about Bitcoin and taxes?
+                                What about Gemoneycoin and taxes?
                               </a>
                             </h6>
                           </div>
@@ -1232,13 +1224,13 @@ const Faq = () => {
                             data-parent="#accordion8"
                           >
                             <div class="card-body">
-                              Bitcoin is not a fiat currency with legal tender
+                              Gemoneycoin is not a fiat currency with legal tender
                               status in any jurisdiction, but often tax
                               liability accrues regardless of the medium used.
                               There is a wide variety of legislation in many
                               different jurisdictions which could cause income,
                               sales, payroll, capital gains, or some other form
-                              of tax liability to arise with Bitcoin.
+                              of tax liability to arise with Gemoneycoin.
                             </div>
                           </div>
                         </div>
